@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="verdadero_btn">Verdadero</string>
+    <string name="falso_btn">Falso</string>
+    <string name="correcto">Correcto</string>
+    <string name="incorrecto">Incorrecto</string>
+    <string name="btn_siguiente">Siguiente</string>
+
+    <string name="pregunta1">La Capital de Ecuador es Quito</string>
+    <string name="pregunta2">El Ecuador bien economicamente?</string>
+    <string name="pregunta3">EL Covid aun es un peligro?</string>
+    <string name="pregunta4">Existe el tercer mundismo aun en el pais?</string>
+    <string name="pregunta5">Guayaquil es una ciudad segura?</string>
+</resources>
